@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-    int main(void)
+int main(void)
 {
     int a,b,c,x;
     printf("Три целых числа через пробел: ");

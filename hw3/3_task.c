@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-    int main(void) 
+int main(void) 
 {
     int a,b,c;
     printf("Два целых числа через пробел:\n");

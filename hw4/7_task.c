@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char **argv)
+int main(void)
 {
     int a, b, c, d, f, max;
     printf("Введите пять чисел: ");

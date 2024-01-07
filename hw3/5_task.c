@@ -8,7 +8,7 @@ int main(void)
         return 1;
     for ( b = 1; a; a /= 10 )
         b *= a % 10;
-    printf("Произведение: %d", b);
+    printf("Произведение цифр: %d", b);
     return 0;
 }
 

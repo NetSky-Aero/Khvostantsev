@@ -8,11 +8,11 @@ B4 Урок 5 ДЗ 2
 
 int main(void) 
 {
-    int a, count;
+    int a, b;
     printf("Введи целое число: ");
     scanf("%d", &a);
-    for(; a != 0; count++, a = a / 10);
-    count == 3 ? printf("YES") : printf("NO");
+    for(; a != 0; b++, a = a / 10);
+    b == 3 ? printf("YES") : printf("NO");
     return 0;
 }
 

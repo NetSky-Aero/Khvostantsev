@@ -4,12 +4,10 @@ B2 Урок 4 Практика 1
 Ввести два целых числа a и b (a ≤ b) и вывести квадраты всех чисел от a до b. 
 */
 #include <stdio.h>
-#include <locale.h>
 
 int main(void)
 {
     int a, b;
-    setlocale(LC_ALL, "Rus");
     scanf("%d%d", &a, &b);
     if (a <= b)
     { 

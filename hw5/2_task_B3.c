@@ -8,7 +8,7 @@
 
 int main (void) 
 {
-    int a, b, sum;
+    int a, b, c;
     printf("Введи два целых числа a и b, где a <= b и b <=100): ");
     scanf("%d%d", &a, &b);
     if (a > b || b > 100) 
@@ -18,8 +18,8 @@ int main (void)
     }
     for (; a <= b; a++) 
     {
-        sum += (int) pow(a, 2);
+        c += (int) pow(a, 2);
     }
-    printf("%d\n", sum);
+    printf("%d\n", c);
     return 0;
 }

@@ -75,7 +75,7 @@ void duplicat (int size, char arr[])
     arr[duplicat] = '\0';
     for (int i = 0; i < duplicat; i++)
     {
-        printf("%c", arr[i]); // Печатаем массив
+        printf("%c", arr[i]);
     }
 }
 

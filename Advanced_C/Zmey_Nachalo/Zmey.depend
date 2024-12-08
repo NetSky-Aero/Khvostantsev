@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1733645580 source:c:\users\netsk\onedrive\Документы\codeblocks\zmey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	<inttypes.h>
+	<string.h>
+	<unistd.h>
+
+1567627682 c:\tools\pdcurses-3.9\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1733645580 source:c:\users\netsk\onedrive\Документы\codeblocks\zmey_nachalo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	<inttypes.h>
+	<string.h>
+	<unistd.h>
+
